@@ -1,0 +1,19 @@
+{
+  "name": "views",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tikaspijkerman/movieapp.git"
+  },
+  "author": "tika spijkerman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tikaspijkerman/movieapp/issues"
+  },
+  "homepage": "https://github.com/Tikaspijkerman/movieapp#readme"
+}
